@@ -216,6 +216,17 @@ fa:
             rank: 'مرتبه علمی'
             digest_email: 'ایمیل آگاهسازی'
             email: 'ایمیل'
+        agency:
+            name: 'نام شرکت'
+            subdomain: 'دامنه'
+            tel: 'تلفن'
+            mobile: 'تلفن همراه'
+            fax: 'فکس'
+            telegram_channel: 'کانال تلگرام'
+            instagram_page: 'صفحه اینستاگرام'
+            email: 'ایمیل'
+            address: 'آدرس'
+            about_us: 'درباره ما'
         river:
             title: 'عنوان '
             content: 'متن '
@@ -231,6 +242,7 @@ fa:
     page_gap: "&hellip;"
     previous_label: "قبلی"
     next_label: "بعدی"
+  agency_form: 'فرم اطلاعات شرکت'
   sign_out: 'خروج '
   email: 'ایمیل'
   male: 'مرد'
